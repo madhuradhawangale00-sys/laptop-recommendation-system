@@ -93,3 +93,36 @@ Similarity: 94.2%
 16 GB RAM | 512 GB SSD
 Intel i5 | RTX 3050
 Similarity: 91.8%
+
+
+
+
+Technology
+Python
+│
+├── Pandas          → Dataset handling
+├── NumPy           → Numerical operations
+├── Scikit-learn    → KNN + preprocessing
+├── Matplotlib      → Visualization
+├── Seaborn         → Visualization
+└── Streamlit       → Web interface
+
+
+
+| Step | What we'll do                |
+| ---- | ---------------------------- |
+| 1    | Create project               |
+| 2    | Get/create dataset           |
+| 3    | Understand dataset           |
+| 4    | Clean data                   |
+| 5    | Feature engineering          |
+| 6    | Convert categorical data     |
+| 7    | Scale features               |
+| 8    | Build KNN                    |
+| 9    | Test recommendations         |
+| 10   | Calculate similarity score   |
+| 11   | Build Streamlit UI           |
+| 12   | Improve recommendation logic |
+| 13   | Add graphs                   |
+| 14   | Test project                 |
+| 15   | Prepare PPT/report/viva      |
